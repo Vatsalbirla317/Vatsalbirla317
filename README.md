@@ -19,6 +19,11 @@ I'm a passionate AI/ML and data analytics enthusiast, skilled in building intell
 **Tools & Platforms:** Power BI, MySQL, Streamlit, Flask, GitHub, Excel, VADER, NLTK, LangChain  
 
 ---
+### 🧠 DSA Practice
+- 🔗 LeetCode: [Vatsalbirla317](https://leetcode.com/Vatsalbirla317/)
+- 🟢 GFG: [birlavaa2zq](https://auth.geeksforgeeks.org/user/birlavaa2zq/practice)
+
+---
 
 ### 📌 Featured Projects
 
