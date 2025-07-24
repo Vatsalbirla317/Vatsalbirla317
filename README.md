@@ -68,7 +68,7 @@ Let’s connect if you’re interested in data, tech, or meaningful collaboratio
 > 📉 Real-time NLP dashboard using VADER to classify sentiment.  
 > **Impact:** Enabled faster crisis response & 18% boost in engagement.
 
-#### 🔹 [Log Analyzer Dashboard](https://github.com/Vatsalbirla317/log-analyzer) | [Live App](https://log-analyzer.streamlit.app/)
+#### 🔹 [Log Analyzer Dashboard](https://github.com/Vatsalbirla317/log-analyzer) | [Live App](https://log-analyzer-dwye9xy4pwgfhlqrzgsxvh.streamlit.app/)
 > 🧾 Real-time log analyzer with Slack alerts and anomaly detection.  
 > Parsed 1,000+ `.log`/`.json` entries with service-wise filters and 10s auto-refresh.  
 > **Impact:** Reduced debugging latency by 70% and enabled <2s Slack alert response.  
