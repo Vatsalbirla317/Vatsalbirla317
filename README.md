@@ -69,13 +69,13 @@ I'm a **Data Analyst** and **Python Developer** with hands-on experience in AI-b
   <h3>🚀 My Best Work</h3>
 </div>
 
-### 🎵 [Smart Music Genre Classification](https://github.com/Vatsalbirla317/Music-Genre-Classification)
-> **🎯 97% Accuracy | CNN-based Classifier | GTZAN Dataset**
+### 🤖 [CodeMatrix RAG3.0 - AI-Powered Code Analysis](https://github.com/Vatsalbirla317/RAG3.0) | [Live App](https://rag-3-0-nine.vercel.app/)
+> **🚀 Cursor-like Intelligence | Multi-Mode AI Assistant | Repository Intelligence**
 > 
-> Built a deep learning model that classifies music genres using Mel spectrograms. Achieved 97% accuracy on the GTZAN dataset, demonstrating expertise in audio processing and CNN architectures.
+> Advanced AI-powered code analysis platform that provides Cursor-like intelligence for understanding, analyzing, and improving codebases. Features context-aware chat, security scanning, code visualization, and real-time analysis with Groq and Gemini AI.
 > 
-> **🛠️ Tech Stack:** Python, TensorFlow, Librosa, Keras, CNN
-> **📊 Impact:** High-accuracy audio classification system
+> **🛠️ Tech Stack:** Python, FastAPI, React, TypeScript, RAG, Vector Search, Groq, Gemini
+> **📊 Impact:** Intelligent code suggestions, 50MB+ repository processing, real-time AI assistance
 
 ### 📊 [Instagram User Behavior Analysis](https://github.com/Vatsalbirla317/Instagram-User-Analysis)
 > **📈 20% CTR Boost | 12% Churn Reduction | 500K+ Records**
