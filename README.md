@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Vatsal+Birla;Data+Analyst+%7C+Python+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Vatsal+Birla;Data+Scientist+%7C+AI+SDE+%7C+LLM+%26+RAG;Cloud%3A+AWS+%7C+GCP+%7C+Azure;Product-Focused+AI+Systems+Builder" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Vatsalbirla317&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-India-blue" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20AI%20%2F%20ML%20Roles-brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue" alt="Location" />
 </div>
 
 ---
@@ -17,16 +17,17 @@
 </div>
 
 > **🎓 B.Tech CCE @ Manipal University Jaipur (2022–2026)**  
-> **💼 AI/ML & Data Analytics Intern @ Adani Green | Ex-Adani Power, Celebal**  
-> **🔬 Passionate about leveraging data to solve real-world problems**
+> **💼 SDE Intern (AI/ML & Backend) @ DigiFortex | Ex-Adani Green, Celebal, Adani Power**  
+> **🔬 Building production-grade AI pipelines at the intersection of technology, strategy & execution**
 
-I'm a **Data Analyst** and **Python Developer** with hands-on experience in AI-based solutions, machine learning, and data visualization. Currently interning at **Adani Green** and previously worked at **Adani Power** and **Celebal Technologies**.
+I'm a **Data Scientist** and **AI Software Engineer** who architects AI-driven product systems that transform fragmented, real-world data into structured, decision-ready intelligence for enterprise use cases. Currently at **DigiFortex** and previously worked at **Adani Green Energy**, **Celebal Technologies**, and **Adani Power**.
 
 ### 🎯 What I Bring to the Table
-- **📊 Data-Driven Decision Making**: Built solutions that improved efficiency by 40% and boosted engagement by 20%
-- **🤖 AI/ML Expertise**: Developed CNN-based classifiers with 97% accuracy and LSTM models for time series prediction
-- **📈 Business Impact**: Created dashboards that reduced debugging latency by 70% and enabled faster crisis response
-- **🛠️ Full-Stack Development**: From data pipelines to web applications using modern tech stack
+- **🤖 LLM & RAG Systems**: Built AI-enabled compliance pipelines with intelligent document extraction, classification, and LLM-powered reasoning layers
+- **☁️ Cloud-Scale Engineering**: Hands-on with AWS, GCP, and Azure — worked with large-scale datasets and production pipelines on GCP
+- **📊 Data-Driven Impact**: Time-series forecasting models with 15% accuracy improvement and ML automation reducing manual effort by 40%
+- **🏗️ Product Thinking**: Competitor benchmarking, market gap analysis, and translating business requirements into scalable system design
+- **📈 Proven Results**: Dashboards reducing debugging latency by 70% and engagement boosts of 18–20%
 
 ---
 
@@ -44,6 +45,12 @@ I'm a **Data Analyst** and **Python Developer** with hands-on experience in AI-b
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### ☁️ Cloud & Backend
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -133,12 +140,30 @@ I'm a **Data Analyst** and **Python Developer** with hands-on experience in AI-b
         <br><strong>Machine Learning Fundamentals</strong>
       </td>
       <td align="center">
+        <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+        <br><strong>Foundations of Project Management</strong>
+      </td>
+      <td align="center">
         <img src="https://img.shields.io/badge/NPTEL-FF6B35?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL" />
         <br><strong>Optimization for ML</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/UC_San_Diego-006633?style=for-the-badge&logo=uc-san-diego&logoColor=white" alt="UC San Diego" />
+        <img src="https://img.shields.io/badge/UC_San_Diego-006633?style=for-the-badge&logo=coursera&logoColor=white" alt="UC San Diego" />
         <br><strong>Algorithmic Toolbox</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+        <br><strong>Business Analysis Fundamentals</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+        <br><strong>The Power of Statistics</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+        <br><strong>Software Engineering: UML</strong>
       </td>
     </tr>
   </table>
@@ -184,7 +209,7 @@ I'm a **Data Analyst** and **Python Developer** with hands-on experience in AI-b
   <a href="mailto:birla.vatsal04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://lovable.dev/projects/53ad20e2-cbd0-425c-a70c-19da88097ed1">
+  <a href="https://portfolio2026-liart-eight.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
